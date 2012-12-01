@@ -16,3 +16,9 @@
 !.gitignore
 !wp-content/
 
+wp-content/themes/oxygen/*
+wp-content/themes/twentyten/*
+wp-content/plugins/easy-nivo-slider/*
+wp-content/plugins/oik/*
+wp-content/plugins/oik-nivo-slider/*
+wp-content/uploads/*
